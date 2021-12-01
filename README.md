@@ -3,7 +3,7 @@ Configuring the `uvcvideo` kernel module for `Generalplus Technology Inc. GENERA
 
 ![](https://github.com/AKotov-dev/GeneralWebCam/blob/main/ScreenShot.png)
 
-Dependencies: v4l-utils ffmpeg
+Dependencies: `v4l-utils ffmpeg`
 
 After installing the package, restart the computer or disconnect the webcam and do the following:
 ```
