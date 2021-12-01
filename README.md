@@ -10,6 +10,6 @@ After installing the package, restart the computer or disconnect the webcam and 
 su/password
 rmmod uvcvideo
 ```
-...and connect the webcam again
+...and connect the webcam again.
 
 Tested in Mageia-8 and LUbuntu-21.10.
